@@ -1,4 +1,6 @@
-_Update: see [last paragraph](#some-updates) for some important status update._
+## Overview
+
+This is the code for [this](https://youtu.be/RDLdGsDX41s) video on Youtube by Siraj Raval about HashGraph. 
 
 # py-swirld
 
@@ -206,3 +208,7 @@ PoW blockchain's security claims rely on:
   surely not behave in a manner that maximises their tokens, they only want to
   crash your system. Instead you should target a byzantine-fault tolerant
   protocol.
+  
+  ## Credits
+  
+  The credits for this code go to [lapin0t](https://github.com/Lapin0t/py-swirld). I've merely created a wrapper to get people started. 
